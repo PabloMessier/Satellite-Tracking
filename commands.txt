@@ -1,0 +1,2 @@
+.\load_env_and_run_terraform.ps1 plan 
+.\load_env_and_run_terraform.ps1 apply
